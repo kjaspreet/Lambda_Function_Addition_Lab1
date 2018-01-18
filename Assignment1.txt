@@ -1,0 +1,10 @@
+This Lambda function calculates the Sum for given two numbers.
+
+Link for API:
+https://nfmaovl07l.execute-api.us-west-2.amazonaws.com/myFuncDeploy/myfuncapi
+
+key values:
+num1, num2
+
+example:
+https://nfmaovl07l.execute-api.us-west-2.amazonaws.com/myFuncDeploy/myfuncapi?num1=7&num2=8
